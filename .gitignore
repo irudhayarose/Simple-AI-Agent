@@ -1,0 +1,6 @@
+.env
+client_secret.json
+token.json
+chat_history.json
+__pycache__/
+.venv/

@@ -1,0 +1,8 @@
+google-genai
+python-dotenv
+streamlit
+google-api-python-client
+google-auth-oauthlib
+pymongo
+keyring
+cryptography
